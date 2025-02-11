@@ -3,6 +3,6 @@
 ## Input Parameters:
    p: principal amount \
    t: time period in years\
-   r: annual rate of interest\
+   r: annual rate of interest
 ## Output Parameters:
    simple interest = p*t*r
